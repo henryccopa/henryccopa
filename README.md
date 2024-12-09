@@ -68,6 +68,7 @@
 <h3 align="center">SRPS</h3>
 <div align="center">
 <a href=""https://marisabrantley.github.io/sticky-notes-app/" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
+<br>
 <p>
 <a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -85,7 +86,6 @@
 <h3 align="center">PAM</h3>
 <div align="center">                                       
 <a href="https://appsqa.essalud.gob.pe/modulo-pam/login" target="_blank"><img src="https://github.com/user-attachments/assets/1b4a7add-35ef-49b7-a6d5-4b33ef9ce8bd" width="400" alt="GitHub Repo Gallery App"></a>
-<br>
 <br>
 <p>
 <a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
