@@ -51,4 +51,12 @@
 ![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=flat&logo=business-intelligence&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
+## Bases de Datos
+
+![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle&logoColor=F80000)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
+
 ## Proyectos
