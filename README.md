@@ -60,3 +60,43 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
 
 ## Proyectos
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SRPS</h3>
+<div align="center">
+<a href=""https://marisabrantley.github.io/sticky-notes-app/" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
+<p>
+<a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/sticky-notes-app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>SRPS (Sistema de Rehabilitación Profesional y Social)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
+<p>Desarrollado utilizando Java (Spring Boot), Angular y Oracle 19c como base de datos.</p>
+                                                                                   
+</td>
+
+<td width="50%">
+<h3 align="center">GitHub Repo Gallery App</h3>
+<div align="center">                                       
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
+<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
+</a>
+</p>
+</p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+</div>
+</td>                                                                  
+</table>                                                                                 
+</div>
