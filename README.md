@@ -84,7 +84,7 @@
 <td width="50%">
 <h3 align="center">PAM</h3>
 <div align="center">                                       
-<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://github.com/user-attachments/assets/1b4a7add-35ef-49b7-a6d5-4b33ef9ce8bd" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
 <br>
 <p>
