@@ -6,7 +6,7 @@
 - 🌱 Actualmente vengo aprendiendo nuevas tecnologías como migración de datos mediante procesos ETL, Spring Batch, Apache Kafka, Web Flux.
 - 🚀 Me encanta usar Software como solución para cada Problema.
 
-## Conectate conmigo:
+### Conectate conmigo:
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
