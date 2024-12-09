@@ -82,7 +82,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">CAM</h3>
+<h3 align="center">PAM</h3>
 <div align="center">                                       
 <a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
@@ -95,7 +95,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
 </p>
-<p><strong>CAM (Sistema de Adultos Mayores)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
+<p><strong>PAM (Sistema de Persona Adulta Mayor)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
 <p>Desarrollado utilizando Java (Spring Boot), Angular y Oracle 19c como base de datos.</p>
 </div>
 </td>                                                                  
