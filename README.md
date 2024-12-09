@@ -1,4 +1,4 @@
-![logo](https://github.com/henryccopa/henryccopa/blob/main/2024-12-09_14-11.png)
+![logo](https://github.com/henryccopa/henryccopa/blob/main/2024-12-09_14-20.png)
 ### Sobre mí🧑:
 
 Analista programador con más de 5 años de experiencia en el desarrollo de sistemas y soluciones tecnológicas tanto en entidades públicas y privadas. Con gran habilidad para el trabajo en equipo y la resolución de problemas complejos, estoy comprometido con la mejora continua y la adaptación a las últimas tendencias en tecnología, y me apasiona trabajar en proyectos que mejoren la experiencia del usuario y aumenten la eficiencia del negocio.
