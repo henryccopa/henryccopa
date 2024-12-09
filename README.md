@@ -2,8 +2,6 @@
 ### Sobre mí🧑:
 
 - 🖥️ **Analista Programador** con más de 5 años de experiencia desarrollando soluciones tecnológicas para entidades públicas y privadas.  
-- 💡 Experto en **Java (Spring Boot, Spring Cloud)**, **Angular**, **Bases de Datos** (Oracle, PostgreSQL, MySQL), y metodologías ágiles como **SCRUM**.  
-- 🚀 Apasionado por resolver problemas complejos y mejorar la eficiencia empresarial a través de tecnología de punta.  
 
 ### 🛠️ Habilidades
 - **Backend**: Java, Python, PHP, Spring Boot, Spring Cloud, MyBatis, JPA.  
