@@ -32,30 +32,24 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FC6D26)
-
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
-
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3)
-
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=231F20)
 ![WebFlux](https://img.shields.io/badge/-WebFlux-000000?style=flat&logo=spring&logoColor=6DB33F)
-
 ![Pentaho](https://img.shields.io/badge/-Pentaho-000000?style=flat&logo=pentaho&logoColor=white)
 ![CloverDX](https://img.shields.io/badge/-CloverDX-000000?style=flat&logo=data&logoColor=white)
 ![Talend ETL](https://img.shields.io/badge/-Talend%20ETL-000000?style=flat&logo=talend&logoColor=white)
 ![Jasper Studio](https://img.shields.io/badge/-Jasper%20Studio-000000?style=flat&logo=jasper&logoColor=white)
 ![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=flat&logo=business-intelligence&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
