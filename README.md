@@ -7,62 +7,58 @@
 - 🚀 Me encanta usar Software como solución para cada Problema.
 - 📝 [Mí CV](https://drive.google.com/file/d/1GX5z2fT4WIJ3CEOFNh-xe8z2DwVTITxz/view?usp=sharing)
 
-## Conectate conmigo:
-<p align="center">
-	<a href="mailto:henryccopa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/henryccopa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/51931806681?text=Hola,%20me%20estoy%20contactando%20desde%20GitHub
-"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/henry-ccopa-flores-b32691125/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+## Conéctate conmigo
+
+![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail&logoColor=EA4335)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)
 
 
-## My Skills
+## Lenguajes Utilizados
 
-- Back-End
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=777BB4)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C-Sharp&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=E34F26)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=4479A1)
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
- &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
- &emsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp; 	
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?style=plastic&logo=php&logoColor=white">
-  </a> 
-  &emsp; 	
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c#&logoColor=white">
-  </a> 	
-</p>
 
-## Front-End
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+## Tecnologías Utilizadas
+
+### Control de Versiones
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FC6D26)
+
+### Gestión de Proyectos y CI/CD
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
+
+### Desarrollo Web
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
+
+### Frameworks y Herramientas de Backend
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=231F20)
+![WebFlux](https://img.shields.io/badge/-WebFlux-000000?style=flat&logo=spring&logoColor=6DB33F)
+
+### BI y Reporting
+![Pentaho](https://img.shields.io/badge/-Pentaho-000000?style=flat&logo=pentaho&logoColor=white)
+![CloverDX](https://img.shields.io/badge/-CloverDX-000000?style=flat&logo=data&logoColor=white)
+![Jasper Studio](https://img.shields.io/badge/-Jasper%20Studio-000000?style=flat&logo=jasper&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=flat&logo=business-intelligence&logoColor=white)
+
+### Sistemas Operativos
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
