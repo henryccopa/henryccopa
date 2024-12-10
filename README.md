@@ -139,4 +139,43 @@
 </div>
 </td>                                                                  
 </table> 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SOFDI-CANALES</h3>
+<div align="center">
+<a href="https://appsqa.essalud.gob.pe/sigps/login" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
+<br>
+<p>
+<a href="https://github.com/henryccopa/SIGPS-VERS-2" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://appsqa.essalud.gob.pe/sigps/login" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>SRPS (Sistema de Rehabilitación Profesional y Social)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
+<p>Desarrollado utilizando Java (Spring Boot), Angular y Oracle 19c como base de datos.</p>
+                                                                                   
+</td>
+
+<td width="50%">
+<h3 align="center">TRIVELI</h3>
+<div align="center">                                       
+<a href="https://appsqa.essalud.gob.pe/modulo-pam/login" target="_blank"><img src="https://github.com/user-attachments/assets/1b4a7add-35ef-49b7-a6d5-4b33ef9ce8bd" width="400" alt="GitHub Repo Gallery App"></a>
+<br>
+<p>
+<a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
+<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
+</a>
+</p>
+<p><strong>PAM (Sistema de Persona Adulta Mayor)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
+<p>Desarrollado utilizando Java (Spring Boot), Angular y Oracle 19c como base de datos.</p>
+</div>
+</td>                                                                  
+</table> 
 </div>
