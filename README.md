@@ -67,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Sistema de Rehabilitación Profesional y Social</h3>
 <div align="center">
-<a href="https://appsqa.essalud.gob.pe/sigps/login" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
+<a href="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
 <br>
 <p>
 <a href="https://github.com/henryccopa/SIGPS-VERS-2" target="_blank">
