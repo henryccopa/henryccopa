@@ -106,14 +106,17 @@
 <td width="50%">
 <h3 align="center">NATCLAR</h3>
 <div align="center">
-<a href="https://appsqa.essalud.gob.pe/sigps/login" target="_blank"><img src="https://github.com/user-attachments/assets/e7b70fc9-5f8e-42fd-86c5-10e739318754" width="400" alt="Super Sticky Notes App"></a>
+<a href="https://github.com/user-attachments/assets/26e1ad97-43d4-4117-8e71-e9870e9be6be" target="_blank"><img src="https://github.com/user-attachments/assets/26e1ad97-43d4-4117-8e71-e9870e9be6be" width="400" alt="Super Sticky Notes App"></a>
 <br>
 <p>
 <a href="https://github.com/henryccopa/SIGPS-VERS-2" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/-proto tipo-green?style=for-the-badge&color=2d358f">
+</a>
+<a href="https://github.com/henryccopa/SIGPS-VERS-2" target="_blank">
+<img src="https://img.shields.io/badge/-codigo-green?style=for-the-badge&color=2d358f">
 </a>
 <a href="https://appsqa.essalud.gob.pe/sigps/login" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
 </p>
 <p><strong>SRPS (Sistema de Rehabilitación Profesional y Social)</strong> - Sistema diseñado para gestionar la afiliación de asegurados acreditados al seguro social de EsSalud. Incluye funcionalidades para la creación y planificación de horarios, gestión de citas, realización de evaluaciones y generación de reportes.</p>
