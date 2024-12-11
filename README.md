@@ -122,7 +122,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">TRIVELI</h3>
+<h3 align="center">SISTEMA DE REPARTO</h3>
 <div align="center">                                       
 <a href="https://appsqa.essalud.gob.pe/modulo-pam/login" target="_blank"><img src="https://github.com/user-attachments/assets/1b4a7add-35ef-49b7-a6d5-4b33ef9ce8bd" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
