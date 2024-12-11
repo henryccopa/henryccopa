@@ -124,7 +124,7 @@
 <td width="50%">
 <h3 align="center">SISTEMA DE REPARTO</h3>
 <div align="center">                                       
-<a href="https://appsqa.essalud.gob.pe/modulo-pam/login" target="_blank"><img src="https://github.com/user-attachments/assets/1b4a7add-35ef-49b7-a6d5-4b33ef9ce8bd" width="400" alt="GitHub Repo Gallery App"></a>
+<a href="https://appsqa.essalud.gob.pe/modulo-pam/login" target="_blank"><img src="https://github.com/user-attachments/assets/cda5a502-eaa7-470d-a3db-c9c240b0d0ae" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
 <p>
 <a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
