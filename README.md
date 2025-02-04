@@ -3,7 +3,7 @@
 
 - 🖥️ **Soy Analista Programador Full Stack** con más de 5 años de experiencia desarrollando soluciones tecnológicas para entidades públicas y privadas.
 - 🧑‍💻 Actualmente estoy trabajando como analista programador full stack para Essalud en la Sede Central (GCTIC) - Lima Perú.
-- 🌱 Actualmente vengo aprendiendo nuevas tecnologías como migración de datos mediante procesos ETL, Spring Batch, Apache Kafka, Web Flux.
+- 🌱 Actualmente vengo aprendiendo nuevas tecnologías como migración de datos mediante procesos ETL, Spring Batch, Quarkus, Apache Kafka, Web Flux.
 - 🚀 Me encanta usar Software como solución para cada Problema.
 <!-- - 📝 [Mí CV](https://drive.google.com/file/d/1GX5z2fT4WIJ3CEOFNh-xe8z2DwVTITxz/view?usp=sharing) -->
 
